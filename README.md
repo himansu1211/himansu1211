@@ -96,7 +96,6 @@ I build for the web, experiment with Python and data tools, and enjoy turning id
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himansu1211&bg_color=0D1117&color=C9D1D9&line=00F5D4&point=7C3AED&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
