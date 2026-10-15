@@ -83,26 +83,6 @@ I build for the web, experiment with Python and data tools, and enjoy turning id
 
 ---
 
-## `projects.exe` 🛰️
-
-<div align="center">
-
-<a href="https://github.com/himansu1211/SchoolHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himansu1211&repo=SchoolHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7C3AED" alt="SchoolHub repository card" />
-</a>
-
-<a href="https://github.com/himansu1211?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
-</a>
-
-<a href="https://himansu-portfolioweb.vercel.app/">
-  <img src="https://img.shields.io/badge/OPEN-MY%20PORTFOLIO-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Open my portfolio" />
-</a>
-
-</div>
-
----
-
 ## `github.metrics` 📡
 
 <div align="center">
