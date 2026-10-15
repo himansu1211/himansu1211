@@ -1,51 +1,148 @@
+<div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!;" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:111827,70:312E81,100:06B6D4&text=HIMANSU%20KUMAR%20SAHU&fontColor=E6FBFF&fontSize=38&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20PYTHON%20%26%20AI%20ENTHUSIAST&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Neon banner introducing Himansu Kumar Sahu" />
 
-<h1 align="center">Hi👋, I’m Himansu Kumar Sahu</h1>
-<h3 align="center">💻 Full Stack Developer | AI Enthusiast | Tech Explorer</h3>
- 
----
+<a href="https://github.com/himansu1211">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20COOL%20THINGS-00F5D4?style=for-the-badge&logo=github&logoColor=06121F" alt="Status: building cool things" />
+</a>
+<a href="https://himansu-portfolioweb.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio live" />
+</a>
 
-# 📍 About Me
-- 🌍 **Location:** Odisha, India  
-- 📧 **Email:** [himansuk1211@gmail.com](mailto:himansuk1211@gmail.com)
-- 📧 **Website:** [https://portfolio-website](https://himansu-portfolioweb.vercel.app/) 
-- 💬 Passionate about **Web Development, Artificial Intelligence, Cloud Computing, GenAI and App Development**.  
+<br/>
 
----
+<a href="http://www.linkedin.com/in/himansu-kumar-sahu-377916334"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:himansuk1211@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D6D?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/himansu1211"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
-# 💻 Technical Skills
-| Category | Technologies |
-|-----------|--------------|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-| **Other Skills** | Responsive Web Design • Full Stack Web Development • Prompt Engineering • Front-End Libraries |
+</div>
 
 ---
 
-# 🧩 Projects
-🚀Check out my repositories to see what I’ve been working on!
+## `ABOUT ME`
+
+```python
+class Himansu:
+    name = "Himansu Kumar Sahu"
+    role = ["Full-Stack Developer", "Python & AI Enthusiast"]
+    interests = ["Web Apps", "AI/ML", "Data", "Automation"]
+    mindset = "Learn it. Build it. Improve it."
+```
+
+I build for the web, experiment with Python and data tools, and enjoy turning ideas into useful digital products. I’m focused on sharpening my engineering fundamentals through hands-on projects and continuous learning.
+
+> **Current mission:** write better code, build better products, and keep shipping. 🚀
 
 ---
 
-# 🧾 Accreditations: [View All Certificates](https://drive.google.com/drive/folders/1suLH5X9grYBqIW2CHJq6h3No2tVfKdW_?usp=drive_link)
+## `tech.stack` 🧬
+
+<div align="center">
+
+### ◈ FRONTEND / UI
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,jquery&theme=dark" alt="Frontend technologies: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React, jQuery" />
+
+### ◈ BACKEND / API ENGINEERING
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,python&theme=dark" alt="Backend technologies: Node.js, Express, Flask, Python" />
+
+### ◈ DATA / SCIENTIFIC PYTHON
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+
+### ◈ SCRAPING / AUTOMATION
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Beautiful_Soup-2E8B57?style=for-the-badge" alt="Beautiful Soup" />
+<img src="https://img.shields.io/badge/Requests-4B8BBE?style=for-the-badge" alt="Requests" />
+
+### ◈ LANGUAGES / TOOLS / DATABASES
+<img src="https://skillicons.dev/icons?i=c,git,github,bash,postgres&theme=dark" alt="C, Git, GitHub, Bash, PostgreSQL" />
+<br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/REST%20APIs-00A6A6?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Hooks" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+
+</div>
+
+<details>
+<summary><b>🧠 More skills & concepts</b></summary>
+<br/>
+
+- **Frontend:** semantic HTML, responsive design, Flexbox, CSS Grid, DOM manipulation, ES6+, jQuery, React Hooks
+- **Backend:** Node.js, Express.js, Flask, EJS, REST APIs, authentication, NPM
+- **Data:** NumPy, Pandas, scikit-learn, Plotly, Matplotlib
+- **Automation:** Selenium, Beautiful Soup, Requests
+- **Tools:** Git, GitHub, Bash command line, version control, deployment
+- **Databases:** SQL, PostgreSQL
+- **Exploring concepts:** Web3 on the Internet Computer, blockchain technology, token contracts, and NFT marketplace logic
+
+</details>
 
 ---
 
-# 🌐 Online Profiles
-<p align="center">
-  <a href="http://www.linkedin.com/in/himansu-kumar-sahu-377916334" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:himansuk1211@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/himansu1211" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+## `projects.exe` 🛰️
+
+<div align="center">
+
+<a href="https://github.com/himansu1211/SchoolHub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himansu1211&repo=SchoolHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7C3AED" alt="SchoolHub repository card" />
+</a>
+
+<a href="https://github.com/himansu1211?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
+
+<a href="https://himansu-portfolioweb.vercel.app/">
+  <img src="https://img.shields.io/badge/OPEN-MY%20PORTFOLIO-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Open my portfolio" />
+</a>
+
+</div>
 
 ---
+
+## `github.metrics` 📡
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=himansu1211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansu1211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" alt="Most-used languages on GitHub" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=himansu1211&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=FF4D6D&currStreakLabel=00F5D4" alt="GitHub contribution streak" width="70%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himansu1211&bg_color=0D1117&color=C9D1D9&line=00F5D4&point=7C3AED&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## `certifications.log` 🏆
+
+📂 **[Browse my certificates](https://drive.google.com/drive/folders/1suLH5X9grYBqIW2CHJq6h3No2tVfKdW_?usp=drive_link)**
+
+---
+
+## `connect --with-me` 🌐
+
+<div align="center">
+
+**Have an interesting project, idea, or opportunity? Let's connect.**
+
+<a href="http://www.linkedin.com/in/himansu-kumar-sahu-377916334"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:himansuk1211@gmail.com"><img src="https://img.shields.io/badge/DROP%20A%20MESSAGE-Email-FF4D6D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:312E81,100:050816" width="100%" alt="Neon footer banner" />
+
+<sub>⚡ Learn relentlessly · Build intentionally · Ship consistently ⚡</sub>
+
+</div>
