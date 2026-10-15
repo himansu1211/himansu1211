@@ -22,7 +22,7 @@
 ```python
 class Himansu:
     name = "Himansu Kumar Sahu"
-    role = ["Full-Stack Developer", "Python & AI Enthusiast"]
+    role = ["Full-Stack Developer", "Full Stack & AI Enthusiast"]
     interests = ["Web Apps", "AI/ML", "Data", "Automation"]
     mindset = "Learn it. Build it. Improve it."
 ```
