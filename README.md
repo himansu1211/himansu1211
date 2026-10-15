@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:111827,70:312E81,100:06B6D4&text=HIMANSU%20KUMAR%20SAHU&fontColor=E6FBFF&fontSize=38&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20PYTHON%20%26%20AI%20ENTHUSIAST&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Neon banner introducing Himansu Kumar Sahu" />
-
 <a href="https://github.com/himansu1211">
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20COOL%20THINGS-00F5D4?style=for-the-badge&logo=github&logoColor=06121F" alt="Status: building cool things" />
 </a>
